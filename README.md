@@ -10,39 +10,16 @@ TwoSum is a basic calculator app that takes two integer inputs and displays thei
 
 - Enter two numbers via text fields
 - Tap the Sum button to calculate
-- Display result in format: `num1 + num2 = result`
-
-## Requirements
-
-- iOS 13.0+
-- Xcode 12.0+
-- Swift 5.0+
+- Display result in format: `result`
 
 ## How to Use
 
 1. Enter the first number in the first text field
 2. Enter the second number in the second text field
-3. Tap the "Sum" button
+3. Tap the "=" button
 4. The result will be displayed below
 
-## Installation
-
-1. Clone this repository
-```bash
-git clone https://github.com/yourusername/twoSum.git
-```
-
-2. Open `twoSum.xcodeproj` in Xcode
-3. Build and run the project (⌘R)
 
 ## Screenshot
 
-_Add your app screenshot here_
-
-## Author
-
-Surya Rayala
-
-## License
-
-This project is open source and available under the MIT License.
+/var/folders/y6/_bxc5qn943g1qvpmt51fq5940000gn/T/simulator_screenshot_378D6013-E5F0-46B1-AE89-C067B049A7AC.png

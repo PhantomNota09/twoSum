@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		43C48FBE2F1EAD3100772DB6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 43C48FBD2F1EAD3100772DB6 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		43C48FA02F1E9EFC00772DB6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		43C48F892F1E9EFB00772DB6 /* twoSum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = twoSum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43C48F9F2F1E9EFC00772DB6 /* twoSumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = twoSumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43C48FA92F1E9EFC00772DB6 /* twoSumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = twoSumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		43C48FBD2F1EAD3100772DB6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -92,6 +97,7 @@
 				43C48FA22F1E9EFC00772DB6 /* twoSumTests */,
 				43C48FAC2F1E9EFC00772DB6 /* twoSumUITests */,
 				43C48F8A2F1E9EFB00772DB6 /* Products */,
+				43C48FBD2F1EAD3100772DB6 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43C48FBE2F1EAD3100772DB6 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
