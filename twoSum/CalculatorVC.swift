@@ -9,16 +9,15 @@ import UIKit
 
 class TwoSum: UIViewController {
 
+    @IBOutlet weak var firstNum: UITextField!
+    @IBOutlet weak var secondNum: UITextField!
+    @IBOutlet weak var showAnswer: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         showAnswer.text = ""
     }
-    
-    
-    @IBOutlet weak var firstNum: UITextField!
-    @IBOutlet weak var secondNum: UITextField!
-    @IBOutlet weak var showAnswer: UILabel!
     
     @IBAction func totalSum(_ sender: Any)
     {
