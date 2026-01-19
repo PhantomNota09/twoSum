@@ -22,4 +22,4 @@ TwoSum is a basic calculator app that takes two integer inputs and displays thei
 
 ## Screenshot
 
-/var/folders/y6/_bxc5qn943g1qvpmt51fq5940000gn/T/simulator_screenshot_378D6013-E5F0-46B1-AE89-C067B049A7AC.png
+<img width="120" height="262" alt="simulator_screenshot_5CA36948-2EA4-4ABA-868C-80C7440ECCCA" src="https://github.com/user-attachments/assets/af789695-d452-40ec-917f-92c8f00e72c8" />
